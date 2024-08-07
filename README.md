@@ -37,3 +37,7 @@ Notlar
 Node.js: Sunucu tarafı işlemleri için kullanılır. Sunucu başlatıldığında API endpoint'lerine erişim sağlanabilir.
 Angular: İstemci tarafı kullanıcı arayüzünü sağlar. ng serve komutu ile Angular uygulamanız tarayıcıda açılabilir.
 prıme ng kullanımı için ek bir kurulum veya yapılandırma gereksinimi olabilir. Proje belgelerinde veya prıme ng dokümantasyonunda bu konuda bilgi bulabilirsiniz.
+
+Login kısmında giriş bilgileri:
+'user@example.com': 'password123',
+'admin@example.com': 'adminpassword'
